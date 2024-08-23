@@ -19,6 +19,6 @@ Desenvolvedor back-end apaixonado por construir soluções escaláveis e eficien
 * **LinkedIn:** [https://www.linkedin.com/in/rychard-antony/](https://www.linkedin.com/in/rychardprofissional/)
 
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rychardproficional&theme=midnight-purple" alt="status github"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardproficional&theme=midnight-purple" alt="linguagem mais usadas nos repositorios do github"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rychardprofissional&theme=midnight-purple" alt="status github"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardprofissional&theme=midnight-purple" alt="linguagem mais usadas nos repositorios do github"/>
 </div>
