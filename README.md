@@ -1,42 +1,68 @@
-# **Rychard Antony Pereira de Arruda**  
-🎯 **Desenvolvedor Back-end | Entusiasta de Soluções Escaláveis**
+<div align="center">
 
-Com experiência em **Golang** e **AWS**, trabalho na **Avancy.co** automatizando processos de RH e aprimorando a experiência do usuário. Atualmente cursando **Sistemas de Informação na UFR**, estou sempre explorando novas tecnologias e desafios.
+# **🚀 Rychard Antony Pereira de Arruda**  
+🎯 **Desenvolvedor Back-end | Arquitetura de Sistemas | AWS & Golang**  
 
----
-
-## ✨ **Sobre Mim**  
-- 🔒 **Experiência:** Desenvolvi um sistema de autenticação com **Go** e **AWS Cognito**, otimizando o processo de login e aumentando a segurança dos dados.  
-- 💡 **Interesses:** Sou apaixonado por **arquitetura de microsserviços**, **aprendizado de máquina** e **desenvolvimento de APIs RESTful**.  
-- 🚀 **Objetivos:** Expandir minha experiência em **desenvolvimento de IAs**.
+💡 **Transformando desafios em soluções escaláveis e eficientes**  
 
 ---
 
-## 🛠️ **Habilidades**
-- **Linguagens:**  
-  🦸‍♂️ `Golang` | 🐘 `PHP` | 🌐 `JavaScript`
-  
-- **Frameworks/Bibliotecas:**  
-  🚀 `Gin` | 🔗 `Gorm` | 🔄 `Resty` | 🖥️ `Next.js`  
-  
-- **Bancos de Dados:**  
-  🗄️ `PostgreSQL` | 🛢️ `MySQL`  
-  
-- **Cloud Computing:**  
-  ☁️ `AWS (SQS, API Gateway, S3, Lambda)`
-  
-- **Outros:**  
-  📂 `Git` | 🧑‍💻 `GitHub` | 🖥️ `Linux`
+## **✨ Sobre Mim**  
+👋 Olá! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento back-end**, **arquitetura de microsserviços** e **soluções escaláveis na nuvem**. Atualmente, trabalho na **Avancy.co**, onde automatizo processos de RH, otimizando sistemas para melhorar a experiência do usuário.  
+
+📚 Estudante de **Sistemas de Informação (UFR)**, estou sempre explorando novas tecnologias e aprimorando minhas habilidades para criar aplicações robustas e performáticas.  
+
+🔥 **Destaques da minha trajetória:**  
+- 🚀 **Autenticação Segura:** Desenvolvi um sistema de login integrado com **Go** e **AWS Cognito**, aumentando a segurança dos usuários.  
+- 🤖 **Agentes de WhatsApp Inteligentes:** Experiência no desenvolvimento de **bots e agentes de suporte via WhatsApp**, utilizando **n8n** e integração com APIs para qualificação de leads e atendimento automatizado.  
+- ⚡ **Otimização de APIs:** Experiência na criação e melhoria de **APIs RESTful** com **Golang** e **PostgreSQL**.  
+- 🏗️ **Arquitetura Escalável:** Interesse profundo por **microservices**, **event-driven architecture** e **machine learning aplicado a sistemas back-end**.  
 
 ---
 
-## 📞 **Contato**
-- **Email:** [rychardproficional@gmail.com](mailto:rychardproficional@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/rychard-antony/](https://www.linkedin.com/in/rychardprofissional/)  
+## **🛠️ Habilidades Técnicas**  
+
+### 🔹 **Linguagens de Programação**  
+🦾 `Golang` | 🐘 `PHP` | 🌍 `JavaScript`  
+
+### 🔹 **Frameworks & Bibliotecas**  
+🚀 `Gin` | 🔗 `Gorm` | 🔄 `Resty` | 🖥️ `Next.js`  
+
+### 🔹 **Bancos de Dados & Armazenamento**  
+🗄️ `PostgreSQL` | 🛢️ `MySQL`  
+
+### 🔹 **Cloud & DevOps**  
+☁️ `AWS (SQS, API Gateway, EC2, ElasticCache, S3, Lambda)` | 🐳 `Docker`
+
+### 🔹 **Ferramentas & Outros**  
+📂 `Git & GitHub` | 🏗️ `CI/CD` | 🖥️ `Linux` | 🔍 `Github Actions`  
 
 ---
+
+## **📈 Projetos & Contribuições**  
+🎯 **Projetos Open Source:** Estou constantemente contribuindo para projetos open-source e criando ferramentas para otimizar processos no desenvolvimento back-end.  
+
+🤖 **Agentes de Automação:** Desenvolvi **bots de WhatsApp inteligentes** que integram sistemas de atendimento, qualificação de leads e agendamento automático.  
+
+🚀 **Automação & Eficiência:** Busco criar soluções que otimizam tempo e recursos, sempre explorando novas abordagens para melhorar performance e escalabilidade.  
+
+🌱 **Inteligência Artificial:** Em busca de oportunidades para aplicar **machine learning** no desenvolvimento de sistemas.  
+
+---
+
+## **📬 Contato & Redes**  
+
+📧 **Email:** [rychardproficional@gmail.com](mailto:rychardproficional@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/rychard-antony/](https://www.linkedin.com/in/rychardprofissional/)  
+🐙 **GitHub:** [github.com/RychardProfissional](https://github.com/RychardProfissional)  
+
+---
+
+## **📊 GitHub Stats**  
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rychardprofissional&show_icons=true&theme=midnight-purple" alt="Status do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardprofissional&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rychardprofissional&show_icons=true&theme=radical" alt="Status do GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardprofissional&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</div>
+
 </div>
