@@ -34,11 +34,14 @@
 ### 🔹 **Ferramentas & Outros**  
 📂 `Git & GitHub` | 🏗️ `CI/CD` | 🖥️ `Linux`  
 
+### 🔹 **Frameworks**
+🦾 `Laravel` | `nextjs` | `react`f
+
 ---
 
 ## **📬 Contato & Redes**  
 
-📧 **Email:** [rychardproficional@gmail.com](mailto:rychardproficional@gmail.com)  
+📧 **Email:** [rychard.professional@gmail.com](mailto:rychard.professional@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/rychard-antony/](https://www.linkedin.com/in/rychardprofissional/)  
 🐙 **GitHub:** [github.com/RychardProfissional](https://github.com/RychardProfissional)  
 
