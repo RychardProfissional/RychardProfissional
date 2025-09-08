@@ -12,8 +12,7 @@
 ---
 
 ## **✨ Sobre Mim**  
-👋 Olá! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento back-end**, **arquitetura de microsserviços** e **soluções escaláveis na nuvem**. Atualmente, trabalho na **Mavielo RH**, onde automatizo processos de RH, otimizando sistemas para melhorar a experiência do usuário.  
-
+👋 Olá! Sou um entusiasta de tecnologia apaixonado por **desenvolvimento back-end**, **arquitetura de microsserviços** e **soluções escaláveis na nuvem**.
 📚 Estudante de **Sistemas de Informação (UFR)**, estou sempre explorando novas tecnologias e aprimorando minhas habilidades para criar aplicações robustas e performáticas.  
 
 🔥 **Destaques da minha trajetória:**  
